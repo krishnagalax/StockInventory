@@ -1,2 +1,2 @@
 # StockInventory
-this project  tell about  how much stock  of  item is in or out in a day. give the detail information about serial number, price, time of item in and out  in, also the name of seller  and buyer etc.
+This project  tells about  how much stock  of  item going in or out in a day from inventory. It's give the detail information of item like serial number, price, time of item in and out in, also the name of seller and buyer etc.
